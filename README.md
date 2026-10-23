@@ -34,12 +34,7 @@ company, industry, country, and funding stage.
     Kaggle](https://www.kaggle.com/datasets/blixture/global-tech-layoffs-analysis-dataset/data)
 -   **Report file:** `TechLayoff.pbix`
 
-## How to Use
 
-1.  Open `TechLayoff.pbix` in Power BI Desktop.
-2.  Refresh the data if prompted.
-3.  Use the page navigation and filters for year, country, industry, and
-    funding stage to explore the report.
 
 ## Business Recommendations
 
